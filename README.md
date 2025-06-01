@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">Hey There 👋, Myself Debojyoti</h1>
+<h1 align="center">Hey There 👋, Myself Debojyoti Sinha Thakur</h1>
 
 ###
 
