@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm pursuing Bsc(hons) Computer science and Data Analytics from IIT,Patna<br><br> • 🧑‍💻 AI - Driven Problem Solver.<br>  • 📚 I'm currently learning MERN ,ML ,Data Analytics.<br> • 📫 How to reach me - debojyotisinhathakur@gmail.com<br>  •⚡ In my free time I like to Draw &  Play Sports .</p>
+<p align="left">I'm pursuing Bsc(hons) Computer science and Data Analytics from IIT,Patna<br><br> • 🧑‍💻 AI - Driven Problem Solver.<br>  • 📚 I'm currently learning MERN ,ML and Data Analytics.<br> • 📫 How to reach me - debojyotisinhathakur@gmail.com<br>  •⚡ In my free time I like to Draw &  Play Sports .</p>
 
 ###
 
